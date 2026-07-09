@@ -1,0 +1,4 @@
+source;share/allegro_hand_keyboards/local_setup.bash
+source;share/allegro_hand_keyboards/local_setup.dsv
+source;share/allegro_hand_keyboards/local_setup.sh
+source;share/allegro_hand_keyboards/local_setup.zsh

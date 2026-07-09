@@ -1,0 +1,8 @@
+source;share/allegro_hand_controllers/hook/cmake_prefix_path.ps1
+source;share/allegro_hand_controllers/hook/cmake_prefix_path.dsv
+source;share/allegro_hand_controllers/hook/cmake_prefix_path.sh
+source;share/allegro_hand_controllers/local_setup.bash
+source;share/allegro_hand_controllers/local_setup.dsv
+source;share/allegro_hand_controllers/local_setup.ps1
+source;share/allegro_hand_controllers/local_setup.sh
+source;share/allegro_hand_controllers/local_setup.zsh

@@ -1,0 +1,4 @@
+source;share/bhand/local_setup.bash
+source;share/bhand/local_setup.dsv
+source;share/bhand/local_setup.sh
+source;share/bhand/local_setup.zsh

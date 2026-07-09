@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-d766e002b5d463aa7e85.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "allegro_hand_keyboards",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "allegro_hand_keyboard::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-allegro_hand_keyboard-ad178f0276b90703d949.json",
+					"name" : "allegro_hand_keyboard",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "allegro_hand_keyboards_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-allegro_hand_keyboards_uninstall-663166f596e12bf064cd.json",
+					"name" : "allegro_hand_keyboards_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-fd67bc8ee7425bba12f8.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards",
+		"source" : "/home/fzc/allegro_hand_linux_v4/ros2_source/src/allegro_hand_keyboards"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

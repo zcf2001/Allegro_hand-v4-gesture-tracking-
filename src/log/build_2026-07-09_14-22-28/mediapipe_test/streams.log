@@ -1,0 +1,31 @@
+[1.387s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/mediapipe_test': CONDA_PROMPT_MODIFIER=(hand) PYTHONPATH=/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/mediapipe_test build --build-base /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/build install --record /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/install.log --single-version-externally-managed install_data
+[1.981s] running egg_info
+[2.017s] creating ../build/mediapipe_test/mediapipe_test.egg-info
+[2.017s] writing ../build/mediapipe_test/mediapipe_test.egg-info/PKG-INFO
+[2.018s] writing dependency_links to ../build/mediapipe_test/mediapipe_test.egg-info/dependency_links.txt
+[2.021s] writing requirements to ../build/mediapipe_test/mediapipe_test.egg-info/requires.txt
+[2.021s] writing top-level names to ../build/mediapipe_test/mediapipe_test.egg-info/top_level.txt
+[2.022s] writing manifest file '../build/mediapipe_test/mediapipe_test.egg-info/SOURCES.txt'
+[2.070s] reading manifest file '../build/mediapipe_test/mediapipe_test.egg-info/SOURCES.txt'
+[2.073s] adding license file 'LICENSE'
+[2.073s] writing manifest file '../build/mediapipe_test/mediapipe_test.egg-info/SOURCES.txt'
+[2.073s] running build
+[2.073s] running build_py
+[2.073s] creating /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/build/lib/mediapipe_test
+[2.073s] copying mediapipe_test/__init__.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/build/lib/mediapipe_test
+[2.073s] copying mediapipe_test/mediapipe_node.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/build/lib/mediapipe_test
+[2.074s] running install
+[2.078s] running install_lib
+[2.103s] creating /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test
+[2.104s] copying /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/build/lib/mediapipe_test/__init__.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test
+[2.105s] copying /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/build/lib/mediapipe_test/mediapipe_node.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test
+[2.106s] byte-compiling /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test/__init__.py to __init__.cpython-310.pyc
+[2.109s] byte-compiling /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test/mediapipe_node.py to mediapipe_node.cpython-310.pyc
+[2.109s] running install_data
+[2.109s] creating /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/share/ament_index/resource_index/packages
+[2.110s] copying resource/mediapipe_test -> /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/share/ament_index/resource_index/packages
+[2.110s] copying package.xml -> /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/share/mediapipe_test
+[2.110s] running install_egg_info
+[2.134s] Copying ../build/mediapipe_test/mediapipe_test.egg-info to /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test-0.0.0-py3.10.egg-info
+[2.136s] running install_scripts
+[2.180s] writing list of installed files to '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/mediapipe_test/install.log'

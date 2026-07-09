@@ -1,0 +1,36 @@
+-- The C compiler identification is GNU 12.3.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /home/fzc/ENTER/envs/hand/bin/python3 (found version "3.10.20") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_parameters
+-- Install configuration: ""
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters//.
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters//./gains_pd.yaml
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters//./initial_position.yaml
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/ament_index/resource_index/package_run_dependencies/allegro_hand_parameters
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/ament_index/resource_index/parent_prefix_path/allegro_hand_parameters
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/environment/ament_prefix_path.sh
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/environment/ament_prefix_path.dsv
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/environment/path.sh
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/environment/path.dsv
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/local_setup.bash
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/local_setup.sh
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/local_setup.zsh
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/local_setup.dsv
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/package.dsv
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/ament_index/resource_index/packages/allegro_hand_parameters
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/cmake/allegro_hand_parametersConfig.cmake
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/cmake/allegro_hand_parametersConfig-version.cmake
+-- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters/share/allegro_hand_parameters/package.xml

@@ -1,0 +1,37 @@
+[0.028s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake /home/fzc/allegro_hand_linux_v4/ros2_source/src/allegro_hand_description -DCMAKE_INSTALL_PREFIX=/home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description
+[0.114s] -- The C compiler identification is GNU 12.3.0
+[0.193s] -- The CXX compiler identification is GNU 11.4.0
+[0.204s] -- Detecting C compiler ABI info
+[0.363s] -- Detecting C compiler ABI info - done
+[0.387s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.389s] -- Detecting C compile features
+[0.389s] -- Detecting C compile features - done
+[0.397s] -- Detecting CXX compiler ABI info
+[0.612s] -- Detecting CXX compiler ABI info - done
+[0.648s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.648s] -- Detecting CXX compile features
+[0.650s] -- Detecting CXX compile features - done
+[0.665s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.672s] -- Found Python3: /home/fzc/ENTER/envs/hand/bin/python3 (found version "3.10.20") found components: Interpreter 
+[1.865s] -- Found ament_cmake_gtest: 1.3.14 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[1.867s] -- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.083s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.087s] -- Added test 'lint_cmake' to check CMake code style
+[2.089s] -- Added test 'xmllint' to check XML markup files
+[2.092s] -- Configuring done
+[2.099s] -- Generating done
+[2.099s] -- Build files have been written to: /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description
+[2.107s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake /home/fzc/allegro_hand_linux_v4/ros2_source/src/allegro_hand_description -DCMAKE_INSTALL_PREFIX=/home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description
+[2.109s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description -- -j8 -l8
+[2.164s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description -- -j8 -l8
+[2.166s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description
+[2.174s] -- Install configuration: ""
+[2.174s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes
+[2.174s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_f5.stl
+[2.178s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t3.stl
+[2.182s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t5.stl
+[2.185s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_f4.stl
+[2.187s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t4.stl
+[2.193s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t1_r.stl
+[2.198s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_g_r.stl
+[2.201s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/allegro_hand_description

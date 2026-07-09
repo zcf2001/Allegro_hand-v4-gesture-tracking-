@@ -1,0 +1,47 @@
+[0.027s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake /home/fzc/allegro_hand_linux_v4/ros2_source/src/bhand -DCMAKE_INSTALL_PREFIX=/home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand
+[0.122s] -- The C compiler identification is GNU 12.3.0
+[0.199s] -- The CXX compiler identification is GNU 11.4.0
+[0.210s] -- Detecting C compiler ABI info
+[0.364s] -- Detecting C compiler ABI info - done
+[0.381s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.381s] -- Detecting C compile features
+[0.381s] -- Detecting C compile features - done
+[0.386s] -- Detecting CXX compiler ABI info
+[0.580s] -- Detecting CXX compiler ABI info - done
+[0.627s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.627s] -- Detecting CXX compile features
+[0.628s] -- Detecting CXX compile features - done
+[0.634s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.592s] -- Found Python3: /home/fzc/ENTER/envs/hand/bin/python3 (found version "3.10.20") found components: Interpreter 
+[1.945s] -- Configuring done
+[1.950s] -- Generating done
+[1.961s] -- Build files have been written to: /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand
+[1.966s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake /home/fzc/allegro_hand_linux_v4/ros2_source/src/bhand -DCMAKE_INSTALL_PREFIX=/home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand
+[1.972s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand -- -j8 -l8
+[2.039s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand -- -j8 -l8
+[2.053s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand
+[2.063s] -- Install configuration: ""
+[2.064s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/include/bhand
+[2.064s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/include/bhand/BHandDef.h
+[2.065s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/include/bhand/BHand.h
+[2.065s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/lib/libBHand.so
+[2.065s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/environment/library_path.sh
+[2.066s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/environment/library_path.dsv
+[2.066s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/ament_index/resource_index/package_run_dependencies/bhand
+[2.066s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/ament_index/resource_index/parent_prefix_path/bhand
+[2.066s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/environment/ament_prefix_path.sh
+[2.066s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/environment/ament_prefix_path.dsv
+[2.066s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/environment/path.sh
+[2.066s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/environment/path.dsv
+[2.067s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/local_setup.bash
+[2.067s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/local_setup.sh
+[2.067s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/local_setup.zsh
+[2.067s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/local_setup.dsv
+[2.067s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/package.dsv
+[2.067s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/ament_index/resource_index/packages/bhand
+[2.068s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.068s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/cmake/ament_cmake_export_libraries-extras.cmake
+[2.068s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/cmake/bhandConfig.cmake
+[2.068s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/cmake/bhandConfig-version.cmake
+[2.068s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/src/install/bhand/share/bhand/package.xml
+[2.074s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/src/build/bhand

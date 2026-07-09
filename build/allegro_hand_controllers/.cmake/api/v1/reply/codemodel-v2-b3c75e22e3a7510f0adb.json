@@ -1,0 +1,97 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-146cb2d4a58f5d0146e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "allegro_hand_controllers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "allegro_hand_controllers_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-allegro_hand_controllers_uninstall-ae873e608bc6cc03bdc8.json",
+					"name" : "allegro_hand_controllers_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "allegro_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-allegro_node-2927d5abdd4f2141f29f.json",
+					"name" : "allegro_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "allegro_node_grasp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-allegro_node_grasp-33a5053f22e3bd4b57b7.json",
+					"name" : "allegro_node_grasp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "allegro_node_pd::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-allegro_node_pd-ac97dc4fdec88fcd13a4.json",
+					"name" : "allegro_node_pd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-492774085bdbc521734e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_controllers",
+		"source" : "/home/fzc/allegro_hand_linux_v4/ros2_source/src/allegro_hand_controllers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

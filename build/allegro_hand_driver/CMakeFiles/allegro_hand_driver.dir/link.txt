@@ -1,0 +1,2 @@
+/usr/bin/ar qc liballegro_hand_driver.a CMakeFiles/allegro_hand_driver.dir/src/AllegroHandDrv.cpp.o CMakeFiles/allegro_hand_driver.dir/src/candrv/socket_can.cpp.o
+/usr/bin/ranlib liballegro_hand_driver.a

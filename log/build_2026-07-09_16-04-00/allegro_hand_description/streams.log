@@ -1,0 +1,37 @@
+[0.052s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description -- -j8 -l8
+[0.427s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description -- -j8 -l8
+[0.429s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description
+[0.454s] -- Install configuration: ""
+[0.454s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes
+[0.454s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_f5.stl
+[0.455s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t3.stl
+[0.455s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t5.stl
+[0.455s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_f4.stl
+[0.455s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t4.stl
+[0.456s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t1_r.stl
+[0.456s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_g_r.stl
+[0.457s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_f2.stl
+[0.458s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_g_l.stl
+[0.458s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t1_l.stl
+[0.458s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_t2.stl
+[0.458s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_f1.stl
+[0.459s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//meshes/40_10_link_f3.stl
+[0.459s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//urdf
+[0.459s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//urdf/allegro_hand_description_right.urdf
+[0.459s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description//urdf/allegro_hand_description_left.urdf
+[0.459s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/ament_index/resource_index/package_run_dependencies/allegro_hand_description
+[0.459s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/ament_index/resource_index/parent_prefix_path/allegro_hand_description
+[0.459s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/environment/ament_prefix_path.sh
+[0.460s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/environment/ament_prefix_path.dsv
+[0.460s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/environment/path.sh
+[0.460s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/environment/path.dsv
+[0.460s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/local_setup.bash
+[0.460s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/local_setup.sh
+[0.460s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/local_setup.zsh
+[0.460s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/local_setup.dsv
+[0.461s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/package.dsv
+[0.461s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/ament_index/resource_index/packages/allegro_hand_description
+[0.461s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/cmake/allegro_hand_descriptionConfig.cmake
+[0.461s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/cmake/allegro_hand_descriptionConfig-version.cmake
+[0.461s] -- Up-to-date: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description/share/allegro_hand_description/package.xml
+[0.502s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_description

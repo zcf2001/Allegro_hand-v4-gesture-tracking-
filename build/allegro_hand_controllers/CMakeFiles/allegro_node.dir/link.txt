@@ -1,0 +1,2 @@
+/usr/bin/ar qc liballegro_node.a CMakeFiles/allegro_node.dir/src/allegro_node.cpp.o
+/usr/bin/ranlib liballegro_node.a

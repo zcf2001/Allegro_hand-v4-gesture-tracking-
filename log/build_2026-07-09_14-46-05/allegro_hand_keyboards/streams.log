@@ -1,0 +1,62 @@
+[0.010s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards': CMAKE_PREFIX_PATH=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_driver:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_controllers:/home/fzc/allegro_hand_linux_v4/ros2_source/install/bhand:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake /home/fzc/allegro_hand_linux_v4/ros2_source/src/allegro_hand_keyboards -DCMAKE_INSTALL_PREFIX=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards
+[0.064s] -- The C compiler identification is GNU 12.3.0
+[0.117s] -- The CXX compiler identification is GNU 11.4.0
+[0.124s] -- Detecting C compiler ABI info
+[0.186s] -- Detecting C compiler ABI info - done
+[0.195s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.195s] -- Detecting C compile features
+[0.196s] -- Detecting C compile features - done
+[0.198s] -- Detecting CXX compiler ABI info
+[0.268s] -- Detecting CXX compiler ABI info - done
+[0.275s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.275s] -- Detecting CXX compile features
+[0.275s] -- Detecting CXX compile features - done
+[0.278s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.686s] -- Found Python3: /home/fzc/ENTER/envs/hand/bin/python3 (found version "3.10.20") found components: Interpreter 
+[0.796s] -- Found rclcpp: 16.0.18 (/opt/ros/humble/share/rclcpp/cmake)
+[0.838s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.843s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.851s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.865s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.880s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.924s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.927s] -- Found rmw_fastrtps_cpp: 6.2.10 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.010s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.041s] -- Found FastRTPS: /opt/ros/humble/include  
+[1.092s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.103s] -- Looking for pthread.h
+[1.171s] -- Looking for pthread.h - found
+[1.171s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[1.245s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[1.247s] -- Found Threads: TRUE  
+[1.294s] -- Found allegro_hand_driver: 1.0.0 (/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_driver/share/allegro_hand_driver/cmake)
+[1.299s] -- Found yaml_cpp_vendor: 8.0.2 (/opt/ros/humble/share/yaml_cpp_vendor/cmake)
+[1.394s] -- Configuring done
+[1.403s] -- Generating done
+[1.407s] -- Build files have been written to: /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards
+[1.417s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards' returned '0': CMAKE_PREFIX_PATH=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_driver:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_controllers:/home/fzc/allegro_hand_linux_v4/ros2_source/install/bhand:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake /home/fzc/allegro_hand_linux_v4/ros2_source/src/allegro_hand_keyboards -DCMAKE_INSTALL_PREFIX=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards
+[1.418s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards': CMAKE_PREFIX_PATH=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_driver:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_controllers:/home/fzc/allegro_hand_linux_v4/ros2_source/install/bhand:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards -- -j8 -l8
+[1.465s] [ 50%] [32mBuilding CXX object CMakeFiles/allegro_hand_keyboard.dir/src/allegro_hand_keyboard.cpp.o[0m
+[5.440s] [100%] [32m[1mLinking CXX executable allegro_hand_keyboard[0m
+[5.626s] [100%] Built target allegro_hand_keyboard
+[5.637s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards' returned '0': CMAKE_PREFIX_PATH=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_driver:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_controllers:/home/fzc/allegro_hand_linux_v4/ros2_source/install/bhand:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --build /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards -- -j8 -l8
+[5.639s] Invoking command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards': CMAKE_PREFIX_PATH=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_driver:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_controllers:/home/fzc/allegro_hand_linux_v4/ros2_source/install/bhand:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards
+[5.646s] -- Install configuration: ""
+[5.646s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/lib/allegro_hand_keyboards/allegro_hand_keyboard
+[5.647s] -- Set runtime path of "/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/lib/allegro_hand_keyboards/allegro_hand_keyboard" to "/opt/ros/humble/lib"
+[5.647s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/ament_index/resource_index/package_run_dependencies/allegro_hand_keyboards
+[5.647s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/ament_index/resource_index/parent_prefix_path/allegro_hand_keyboards
+[5.647s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/environment/ament_prefix_path.sh
+[5.647s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/environment/ament_prefix_path.dsv
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/environment/path.sh
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/environment/path.dsv
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/local_setup.bash
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/local_setup.sh
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/local_setup.zsh
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/local_setup.dsv
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/package.dsv
+[5.648s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/ament_index/resource_index/packages/allegro_hand_keyboards
+[5.649s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/cmake/allegro_hand_keyboardsConfig.cmake
+[5.649s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/cmake/allegro_hand_keyboardsConfig-version.cmake
+[5.649s] -- Installing: /home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards/share/allegro_hand_keyboards/package.xml
+[5.651s] Invoked command in '/home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards' returned '0': CMAKE_PREFIX_PATH=/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_driver:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_controllers:/home/fzc/allegro_hand_linux_v4/ros2_source/install/bhand:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_parameters:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_keyboards:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_hand_description:/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test:/home/fzc/allegro_hand_linux_v4/ros2_source/install/test_topic:/home/fzc/allegro_hand_linux_v4/ros2_source/install/allegro_mediapipe_follow:/opt/ros/humble CONDA_PROMPT_MODIFIER=(hand) /usr/bin/cmake --install /home/fzc/allegro_hand_linux_v4/ros2_source/build/allegro_hand_keyboards
