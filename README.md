@@ -1,4 +1,11 @@
-# ROS2 API
+# allegro hand v4 手势跟踪
+
+基于官方例程
+环境：ROS2 humble、ubuntu22.04
+
+##运行步骤
+##步骤1
+
 
 This repository is the official release for controlling the **Allegro Hand V4** using **ROS2 Humble** on **Ubuntu 22.04**.
 
