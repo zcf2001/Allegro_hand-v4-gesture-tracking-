@@ -39,8 +39,30 @@ cd ros2_source
 source install/setup.bash
 ros2 run mediapipe_test mediapipe_node
 ```
+需要安装mediapipe所需环境。ros2 run之前运行：
+```
+sed -i '1s|.*|#!"你的安装了mediapipe以及相关包的虚拟环境路径"/bin/python3|' install/mediapipe_test/lib/mediapipe_test/mediapipe_allegro_bridge
+```
+
 运行后显示相机窗口，话题发送识别的关节角数据。
 
+## PCAN问题
+如果找不到can0:
+```
+sudo rmmod pcan
+sudo rmmod peak_usb
+sudo rmmod can_raw
+sudo rmmod can_dev
+sudo rmmod can
+
+sudo modprobe can_dev
+sudo modprobe can
+sudo modprobe can_raw
+sudo modprobe peak_usb
+
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 1000000 sample-point 0.750 sjw 2 restart-ms 100
+```
 
 ## 以下官方文档
 
