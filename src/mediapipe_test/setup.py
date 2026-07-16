@@ -24,7 +24,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-            'mediapipe_allegro_bridge = mediapipe_test.mediapipe_node:main'
+            'mediapipe_allegro_bridge = mediapipe_test.mediapipe_node:main',
+            'point_visual = mediapipe_test.point_visual:main',
         ],
     },
 )

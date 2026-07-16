@@ -1,0 +1,28 @@
+running egg_info
+writing ../../build/mediapipe_test/mediapipe_test.egg-info/PKG-INFO
+writing dependency_links to ../../build/mediapipe_test/mediapipe_test.egg-info/dependency_links.txt
+writing entry points to ../../build/mediapipe_test/mediapipe_test.egg-info/entry_points.txt
+writing requirements to ../../build/mediapipe_test/mediapipe_test.egg-info/requires.txt
+writing top-level names to ../../build/mediapipe_test/mediapipe_test.egg-info/top_level.txt
+reading manifest file '../../build/mediapipe_test/mediapipe_test.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/mediapipe_test/mediapipe_test.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mediapipe_test/__init__.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/build/mediapipe_test/build/lib/mediapipe_test
+copying mediapipe_test/point_visual.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/build/mediapipe_test/build/lib/mediapipe_test
+copying mediapipe_test/mediapipe_node.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/build/mediapipe_test/build/lib/mediapipe_test
+running install
+running install_lib
+copying /home/fzc/allegro_hand_linux_v4/ros2_source/build/mediapipe_test/build/lib/mediapipe_test/point_visual.py -> /home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test
+byte-compiling /home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test/point_visual.py to point_visual.cpython-310.pyc
+running install_data
+copying resource/mediapipe_test -> /home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/share/ament_index/resource_index/packages
+copying package.xml -> /home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/share/mediapipe_test
+running install_egg_info
+removing '/home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/mediapipe_test/mediapipe_test.egg-info to /home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/lib/python3.10/site-packages/mediapipe_test-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mediapipe_allegro_bridge script to /home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/lib/mediapipe_test
+Installing point_visual script to /home/fzc/allegro_hand_linux_v4/ros2_source/install/mediapipe_test/lib/mediapipe_test
+writing list of installed files to '/home/fzc/allegro_hand_linux_v4/ros2_source/build/mediapipe_test/install.log'
