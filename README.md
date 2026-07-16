@@ -39,7 +39,8 @@ cd ros2_source
 source install/setup.bash
 ros2 run mediapipe_test mediapipe_node
 ```
-需要安装mediapipe所需环境。ros2 run之前运行：
+需要安装mediapipe所需环境。
+运行的时候可能显示找不到模块，需要在ros2 run之前运行以下命令
 ```
 sed -i '1s|.*|#!"你的安装了mediapipe以及相关包的虚拟环境路径"/bin/python3|' install/mediapipe_test/lib/mediapipe_test/mediapipe_allegro_bridge
 ```
