@@ -1,6 +1,7 @@
 # allegro hand v4 手势跟踪 demo
 
 基于官方例程
+
 环境：ROS2 humble、ubuntu22.04
 
 ## 运行步骤
@@ -64,6 +65,7 @@ sudo modprobe peak_usb
 sudo ip link set can0 down
 sudo ip link set can0 up type can bitrate 1000000 sample-point 0.750 sjw 2 restart-ms 100
 ```
+成功后红蓝灯亮。运行步骤2时红蓝灯闪烁。
 
 ## 以下官方文档
 
