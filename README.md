@@ -1,4 +1,73 @@
-# ROS2 API
+# allegro hand v4 手势跟踪 demo
+
+基于官方例程
+
+环境：ROS2 humble、ubuntu22.04
+
+## 运行步骤
+
+## 步骤1
+打开第一个终端
+```
+cd ros2_source
+colcon build --symlink-install
+source install/setup.bash
+```
+
+## 步骤2
+打开手的电源，红灯常亮，并确认PCAN的通讯正常。
+同终端运行：
+```
+ros2 launch allegro_hand_controllers allegro_hand.launch.py HAND:=right
+```
+运行后在rviz中显示手指模型，会跟着实际手指同步运动。如果没有手指只有手掌，是can通信出错。
+
+## 步骤3
+同时打开另一个终端，官方例程，可以用键盘控制手势。rviz中模型会跟随运动
+O键电机放松状态，可以手动旋转手关节。（别的状态下手掰好像一小段时间后通讯会断开）
+```
+cd ros2_source
+source install/setup.bash
+ros2 run allegro_hand_keyboards allegro_hand_keyboard --ros-args -r /allegroHand/lib_cmd:=/allegroHand_0/lib_cmd
+```
+
+## 步骤4
+手势跟随节点。简单的线性映射。
+mediapipe识别，灵巧手跟随运动（测试中，，，目前只做了手指弯曲）
+打开新终端
+```
+cd ros2_source
+source install/setup.bash
+ros2 run mediapipe_test mediapipe_allegro_bridge 
+```
+需要安装mediapipe所需环境。
+运行的时候可能显示找不到模块，需要在ros2 run之前运行以下命令
+```
+sed -i '1s|.*|#!"你的安装了mediapipe以及相关包的虚拟环境路径"/bin/python3|' install/mediapipe_test/lib/mediapipe_test/mediapipe_allegro_bridge
+```
+
+运行后显示相机窗口，话题发送识别的关节角数据。
+
+## PCAN问题
+如果找不到can0:
+```
+sudo rmmod pcan
+sudo rmmod peak_usb
+sudo rmmod can_raw
+sudo rmmod can_dev
+sudo rmmod can
+
+sudo modprobe can_dev
+sudo modprobe can
+sudo modprobe can_raw
+sudo modprobe peak_usb
+
+sudo ip link set can0 down
+sudo ip link set can0 up type can bitrate 1000000 sample-point 0.750 sjw 2 restart-ms 100
+```
+成功后红蓝灯亮。运行步骤2时红蓝灯闪烁。
+
+## 以下官方文档
 
 This repository is the official release for controlling the **Allegro Hand V4** using **ROS2 Humble** on **Ubuntu 22.04**.
 
